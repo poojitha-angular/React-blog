@@ -4,14 +4,6 @@
     box-sizing: border-box;
 }
 
-
-/* .main-ctn{
-    width: 100vw;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-} */
-
 .top , .middle , .bottom{
     width: 100%;
     

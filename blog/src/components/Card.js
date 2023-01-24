@@ -1,6 +1,7 @@
 import './css/card.css'
 import blog_imges from './images/blog_image.jpeg'
-function Card(){
+function Card(props){
+    const title=props.ite;
     return(
         
         <div class="card">
@@ -10,7 +11,7 @@ function Card(){
         </div>
         <div class="card-bottom">
             <div class="bottom-top">
-                <h2 class="title">Know ChatGpt</h2>
+                <h2 class="title">{title}</h2>
                 <a  href="#" class="read-btn">Read more</a>
             </div>
             <div class="bottom-bottom">

@@ -1,0 +1,26 @@
+/* .dropdown{
+   
+    margin-top: 30px;
+   
+} */
+ul {
+    list-style-type: none;
+  }
+.menu-dropdown{
+    display: flex;
+    align-items: flex-start;
+    width: 20rem;
+    cursor: pointer;
+    margin-left: 20px;
+}
+.dropdown-list{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    cursor: pointer;
+    width: 20rem;
+}
+.catlogs-collections{
+  display: flex;
+  align-items: flex-start;
+}

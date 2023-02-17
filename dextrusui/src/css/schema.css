@@ -1,0 +1,38 @@
+.ind-schema{
+    margin: 5px;
+}
+.schema-collection{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.table_name,.view-name{
+    display: flex;
+    align-items: flex-start;
+    margin-left: 20px;
+}
+
+.table_collections{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    cursor: pointer;  
+    margin-left: 23px;  
+}
+.table_data{
+    display: flex;
+    gap: 3px;
+    margin-left: 17px;
+   
+}
+.columns-collections{
+    display: flex;
+    align-items: flex-start;
+    gap: 3px;
+    margin-left: 32px;
+
+      
+    
+}

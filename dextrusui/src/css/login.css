@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main-cntr{
+    width: 100vw;
+    height: 100vh;
+    display: flex;  
+    justify-content: center;
+    align-items: center;
+}
+.sub-cntr{
+    width: 60vw;
+    height: 60vh;
+   
+   
+}
+
+.input-type{
+    height: 30px;
+    width: 40%;
+    border: 0px;
+    border-bottom: 1px solid #1e1e1e;
+       
+}
+input:focus{
+   outline: none;
+}
+.middle,.bottom{
+    margin-top: 25px;
+}
+button{
+    margin-left: 250px;
+}
+  

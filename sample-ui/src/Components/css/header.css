@@ -1,0 +1,30 @@
+body{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+  a{
+    text-decoration: none;
+    float: right;
+    padding: 14px 16px;
+    color: white;
+  }
+.header-right{
+  background-color: red;
+  height:10vh;
+}
+.left-nav{
+  float: left;
+}
+.hero{
+  color: white;
+}
+/* .image-ctn{
+  height: 100vh;
+  width: 100vw;
+  padding: 4px;
+} */

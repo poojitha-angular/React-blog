@@ -1,0 +1,7 @@
+.main-ctn{
+    display: flex;
+    justify-content: flex-start;
+    height: 40%;
+    width: 50%;
+    margin-top: 40px;
+}
